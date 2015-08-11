@@ -1,1 +1,1 @@
-web: bundle exec rackup config.ru -p $PORT
+https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server
